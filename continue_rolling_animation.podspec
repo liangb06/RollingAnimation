@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.author             = { "liangbin" => "liangb06@163.com" }
   s.source       = { :git => "https://github.com/liangb06/RollingAnimation.git" }
   s.platform     = :ios
-  s.source_files = "*/*.{h,m}"
+  s.source_files = "*.{h,m}"
   s.resources = "Resources/*.png"
 end
