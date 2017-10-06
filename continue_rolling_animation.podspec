@@ -1,8 +1,4 @@
-
 Pod::Spec.new do |s|
-
-
-
   s.name         = "continuerollinganimation"
   s.version      = "0.0.1"
   s.summary      = "A short description of continue_rolling_animation."
@@ -15,5 +11,4 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.source_files = "*.{h,m}"
   s.resources = "Resources/*.png"
-
 end
